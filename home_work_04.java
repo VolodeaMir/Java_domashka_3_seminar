@@ -1,3 +1,5 @@
+// 4. Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка.
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
